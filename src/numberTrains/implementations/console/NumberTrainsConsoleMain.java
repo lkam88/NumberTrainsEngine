@@ -1,4 +1,4 @@
-package numberTrainsEngine.implementations.console;
+package numberTrains.implementations.console;
 
 public class NumberTrainsConsoleMain {
 
